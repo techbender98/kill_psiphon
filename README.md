@@ -7,9 +7,11 @@ These executable files prevent psiphon creating its dependancy executables on st
 The python script contains the raw code used to create the executable.
 
 Deployment requires adding the program to shell:startup
+
 I recommend changing the name of the program prior to deployment.
 
 The windowed exe shows what the program is catching
+
 The noconsole exe is a silent program.
 
 No students were harmed in the making of this program
